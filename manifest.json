@@ -1,0 +1,68 @@
+{
+  "name": "Sports Store",
+  "short_name": "SportsStore",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/img/icons/icon256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/img/icons/icon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/icons/icon128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/icons/icon64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/img/icons/icon32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/img/icons/icon24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "/img/icons/icon16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "screenshots": [
+    {
+     "src": "img/screenshot.png",
+      "sizes": "1588x1514",
+      "type": "image/gif",
+      "form_factor": "wide",
+      "label": "Wonder Widgets"
+    },
+    {
+     "src": "img/screenshot.png",
+      "sizes": "662x1144",
+      "type": "image/gif",
+      "form_factor": "narrow",
+      "label": "Wonder Widgets"
+    }
+]
+}
