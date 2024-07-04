@@ -18,6 +18,12 @@
       "sizes": "256x256"
     },
     {
+      "src": "/img/icons/icon256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
       "src": "/img/icons/icon128.png",
       "type": "image/png",
       "sizes": "128x128"
@@ -52,14 +58,14 @@
   "screenshots": [
     {
      "src": "img/screenshot.png",
-      "sizes": "1588x1514",
+      "sizes": "826x390",
       "type": "image/gif",
       "form_factor": "wide",
       "label": "Wonder Widgets"
     },
     {
      "src": "img/screenshot.png",
-      "sizes": "662x1144",
+      "sizes": "826x390",
       "type": "image/gif",
       "form_factor": "narrow",
       "label": "Wonder Widgets"
