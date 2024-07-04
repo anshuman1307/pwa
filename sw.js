@@ -1,14 +1,14 @@
 const CACHE_NAME = 'cached-assets';
 const assets = [
-  '/',
-  '/index.html',
-  '/js/ui.js',
-  '/js/materialize.min.js',
-  '/css/styles.css',
-  '/css/materialize.min.css',
-  '/img/adidas.png',
-  '/img/england.png',
-  '/img/football.png',
+  '/pwa/',
+  '/pwa/index.html',
+  '/pwa/js/ui.js',
+  '/pwa/js/materialize.min.js',
+  '/pwa/css/styles.css',
+  '/pwa/css/materialize.min.css',
+  '/pwa/img/adidas.png',
+  '/pwa/img/england.png',
+  '/pwa/img/football.png',
   'https://fonts.googleapis.com/icon?family=Material+Icons',
   'https://fonts.gstatic.com/s/materialicons/v47/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2'
 ];
