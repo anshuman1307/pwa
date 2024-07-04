@@ -1,7 +1,8 @@
 {
   "name": "Sports Store",
   "short_name": "SportsStore",
-  "start_url": ".",
+  "scope": "/pwa/",
+  "start_url": "/pwa/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#000000",
