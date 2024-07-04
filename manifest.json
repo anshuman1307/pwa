@@ -1,7 +1,7 @@
 {
   "name": "Sports Store",
   "short_name": "SportsStore",
-  "start_url": "https://anshuman1307.github.io/pwa/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#000000",
